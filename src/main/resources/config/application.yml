@@ -49,7 +49,7 @@ jdbc:
 #  password: jeesite
 #  testSql: SELECT 1 FROM DUAL
 
-#  # Sql Server 数据库配置1
+#  # Sql Server 数据库配置1223
 #  type: mssql
 #  driver: net.sourceforge.jtds.jdbc.Driver
 #  url: jdbc:jtds:sqlserver://127.0.0.1:1433/jeesite
